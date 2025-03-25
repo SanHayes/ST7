@@ -1,0 +1,7 @@
+/* public/css/nova-custom.css */
+.bg-primary-500 {
+    background-color: rgba(186,230,253) !important; /* 默认背景色 */
+}
+.hover\:bg-primary-400:hover {
+    background-color: rgba(14,165,233) !important; /* 悬停时的背景色 */
+}
